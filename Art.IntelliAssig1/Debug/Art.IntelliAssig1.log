@@ -1,0 +1,23 @@
+﻿  Art.IntelliAssig1.cpp
+C:\Users\Winona\Workspace\Art.IntelliAssig1\Art.IntelliAssig1\Art.IntelliAssig1.cpp(406,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Winona\Workspace\Art.IntelliAssig1\Art.IntelliAssig1\Art.IntelliAssig1.cpp(718,39): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Winona\Workspace\Art.IntelliAssig1\Art.IntelliAssig1\Art.IntelliAssig1.cpp(731,39): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Winona\Workspace\Art.IntelliAssig1\Art.IntelliAssig1\Art.IntelliAssig1.cpp(744,39): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Winona\Workspace\Art.IntelliAssig1\Art.IntelliAssig1\Art.IntelliAssig1.cpp(757,39): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  Art.IntelliAssig1.vcxproj -> C:\Users\Winona\Workspace\Art.IntelliAssig1\Debug\Art.IntelliAssig1.exe
